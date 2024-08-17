@@ -1,21 +1,17 @@
 # • SAVESUCHT *(DEVELOPMENT)*
 
-## » 🚀 — About Us
-› EchoGuard is a multipurpose Discord bot that combines big functions into a single bot.<br>
-› Our bot supports English and German. Another translations are planned.
+## » 🚀 — Über Uns
+› SaveSucht ist ein Minecraft-Netzwerk, das auf der Version 1.20.4+ basiert und den einzigartigen Spielmodus Islands anbietet. In Islands dreht sich alles um das Leben auf dem Wasser. Spieler können ihr eigenes Imperium errichten und gemeinsam mit Freunden oder der Community beeindruckende Projekte verwirklichen. Da wir Wert auf Individualität und Qualität legen, entwickeln wir nahezu alle Plugins und Systeme, die wir verwenden, selbst.<br>
 
-## » ⚒️ — Which applications are we using?
-[![Skills](https://skillicons.dev/icons?i=css,html,js,mysql,nodejs,php)](#)
+## » ⚒️ — Was für Anwendungen verwenden wir?
+[![Skills](https://skillicons.dev/icons?i=css,html,js,php,nodejs,mysql,java)](#)
 
-## » 🌎 — Is EchoGuard open-source?
-› Currently not. EchoGuard will first be developed private. We plan to make our code in a short time public.
+## » 🌎 — Ist SaveSucht Open-Source?
+› Nein. SaveSucht ist zwar sehr transparent zu Spielern, allerdings zeigen wir nicht all unseren Code. Allerdings werden in Zukunft öfter mal kleinere Dinge oder Module Open-Source gemacht.
 
-## » ❓ — Contact Us
-› If you need help you can contact us on our Discord or via email.
+## » ❓ — Kontaktiere Uns
+› Falls du Fragen, Probleme oder sonstige Anliegen haben solltest, sind wir wie folgt zu erreichen:
 
-• **Discord**: [echoguardbot.com/go/discord](https://echoguardbot.com/go/discord)
+• **Discord**: [https://discord.gg/nCkUqsNcbw](https://discord.gg/nCkUqsNcbw)
 <br>
-• **E-Mail**: [contact@echoguardbot.com](mailto:contact@echoguardbot.com)
-
-## » ✒️ — License
-› Everything from EchoGuard is licensed with the [AGLPL-3.0](https://choosealicense.com/licenses/agpl-3.0/) License.
+• **E-Mail**: [contact@savesucht.net](mailto:contact@savesucht.net)
