@@ -1,4 +1,4 @@
-# • ECHOGUARDBOT (v1)
+# • SAVESUCHT *(DEVELOPMENT)*
 
 ## » 🚀 — About Us
 › EchoGuard is a multipurpose Discord bot that combines big functions into a single bot.<br>
